@@ -36,8 +36,7 @@ I’m an **AI engineer** focused on turning complex requirements into practical,
 I care about the engineering underneath the demo: *clear boundaries, observable pipelines, useful retrieval,* and systems that can be operated in the real world.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baolnq-ai&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C4B5FD&icon_color=F0ABFC&ring_color=38BDF8&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolnq-ai&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C4B5FD" height="165" alt="Most used languages" />
+  <img src="./assets/metrics.svg" width="820" alt="Animated AI engineering metrics" />
 </p>
 
 ## <font color="#A78BFA">⚡ What I build</font>
