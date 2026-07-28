@@ -1,0 +1,6 @@
+<svg width="640" height="150" viewBox="0 0 640 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="150" rx="14" fill="#0B1220"/>
+  <path d="M62 94C138 94 133 54 208 54C283 54 278 94 353 94C428 94 423 54 498 54C535 54 548 68 578 68" stroke="#22D3EE" stroke-width="3"/>
+  <g fill="#0E7490" stroke="#67E8F9" stroke-width="2"><circle cx="62" cy="94" r="15"/><circle cx="208" cy="54" r="15"/><circle cx="353" cy="94" r="15"/><circle cx="498" cy="54" r="15"/><circle cx="578" cy="68" r="15"/></g>
+  <g fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle"><text x="62" y="98">TEXT</text><text x="208" y="58">REWRITE</text><text x="353" y="98">CHUNK</text><text x="498" y="58">TTS</text><text x="578" y="72">MEDIA</text></g>
+</svg>

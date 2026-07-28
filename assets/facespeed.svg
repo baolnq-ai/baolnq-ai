@@ -1,0 +1,11 @@
+<svg width="640" height="150" viewBox="0 0 640 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="150" rx="14" fill="#0B1220"/>
+  <circle cx="82" cy="75" r="38" fill="#172554" stroke="#38BDF8" stroke-width="2"/>
+  <path d="M66 69C66 58 74 52 82 52C90 52 98 58 98 69V86C98 97 90 103 82 103C74 103 66 97 66 86V69Z" stroke="#67E8F9" stroke-width="3"/>
+  <circle cx="75" cy="76" r="3" fill="#67E8F9"/><circle cx="89" cy="76" r="3" fill="#67E8F9"/>
+  <path d="M75 89C80 93 85 93 90 89" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 75H192M192 75L180 67M192 75L180 83" stroke="#38BDF8" stroke-width="2"/>
+  <rect x="214" y="38" width="354" height="74" rx="10" fill="#111C35" stroke="#334155"/>
+  <text x="238" y="66" fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="18" font-weight="700">VOICE RAG</text>
+  <text x="238" y="91" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="13">PDF → retrieval → answer → avatar</text>
+</svg>

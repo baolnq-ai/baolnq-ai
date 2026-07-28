@@ -1,0 +1,6 @@
+<svg width="640" height="150" viewBox="0 0 640 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="150" rx="14" fill="#0B1220"/>
+  <g stroke="#38BDF8" stroke-width="2" opacity=".9"><path d="M86 75H210M242 75H366M398 75H522"/><path d="M86 75L98 67M86 75L98 83M522 75L510 67M522 75L510 83"/></g>
+  <g fill="#172554" stroke="#67E8F9" stroke-width="2"><rect x="34" y="45" width="104" height="60" rx="9"/><rect x="190" y="45" width="104" height="60" rx="9"/><rect x="346" y="45" width="104" height="60" rx="9"/><rect x="502" y="45" width="104" height="60" rx="9"/></g>
+  <g fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="12" text-anchor="middle"><text x="86" y="72">DOCUMENT</text><text x="86" y="89" fill="#94A3B8">parse</text><text x="242" y="72">EMBED</text><text x="242" y="89" fill="#94A3B8">index</text><text x="398" y="72">RERANK</text><text x="398" y="89" fill="#94A3B8">retrieve</text><text x="554" y="72">ANSWER</text><text x="554" y="89" fill="#94A3B8">generate</text></g>
+</svg>

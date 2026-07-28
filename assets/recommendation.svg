@@ -1,0 +1,6 @@
+<svg width="640" height="150" viewBox="0 0 640 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="150" rx="14" fill="#0B1220"/>
+  <g stroke="#A78BFA" stroke-width="2" opacity=".8"><path d="M90 45L180 82L270 48L360 101L450 63L550 94"/><path d="M180 82L220 125M360 101L390 35M450 63L490 25"/></g>
+  <g fill="#172554" stroke="#C4B5FD" stroke-width="2"><circle cx="90" cy="45" r="12"/><circle cx="180" cy="82" r="12"/><circle cx="270" cy="48" r="12"/><circle cx="360" cy="101" r="12"/><circle cx="450" cy="63" r="12"/><circle cx="550" cy="94" r="12"/></g>
+  <text x="32" y="132" fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="15" font-weight="700">USER × PRODUCT · TRANSFORMER ENCODER</text>
+</svg>
